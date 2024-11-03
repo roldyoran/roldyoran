@@ -15,9 +15,12 @@
 
 <h3 align="left">Frameworks:</h3>
 <h4 align="left">Frontend:</h4>
-<img align="center" src="imgs/Astro.svg" alt="Astro" height="50" width="50" />
-<img align="center" src="imgs/React.svg" alt="React" height="50" width="50" />
-<img align="center" src="imgs/Tailwing.svg" alt="Tailwing" height="50" width="50" />
+<div align="left">
+    <img align="center" src="imgs/Astro.svg" alt="Astro" height="50" width="50" />
+    <img align="center" src="imgs/React.svg" alt="React" height="50" width="50" />
+    <img align="center" src="imgs/Tailwing.svg" alt="Tailwing" height="50" width="50" />
+</div>
+
 
 <h4 align="left">Backend:</h4>
 <img align="center" src="imgs/fastapi-svgrepo-com.svg" alt="Fastapi" height="50" width="50" />
