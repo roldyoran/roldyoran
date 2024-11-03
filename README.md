@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://astro.build/" target="_blank"><img src="imgs/Astro.svg" alt="Astro" height="30" width="30" /></a>
+            <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/Astro.svg" alt="Astro" height="30" width="30" /></a>
             <a href="https://reactjs.org/" target="_blank"><img src="imgs/React.svg" alt="React" height="30" width="30" /></a>
             <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/Tailwing.svg" alt="Tailwind" height="30" width="30" /></a>
         </td>
