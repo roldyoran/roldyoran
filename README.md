@@ -6,6 +6,7 @@
 - 📄 Know about my experiences [In-progress](In-progress)
 
 <h3 align="center">Connect with me:</h3>
+<div align="center">
 <p align="center">
     <a href="https://linkedin.com/in/in-progress" target="blank">
         <img src="imgs/Linkeding.svg" alt="LinkedIn" height="50" width="50" />
@@ -16,6 +17,7 @@
         <img src="imgs/Mail.svg" alt="Mail" height="50" width="50" />
     </a>
 </p>
+</div>
 
 <h3 align="center">Skills Resume</h3>
 
