@@ -34,7 +34,7 @@
 
 
 
-<h3 align="center">Skills and Tools</h3>
+<h2 align="center">Skills and Tools</h2>
 <table align="center">
     <tr>
         <td align="center"><b>Frontend</b></td>
@@ -50,7 +50,7 @@
         <td align="center">
             <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/Astro.svg" alt="Astro" height="30" width="30" /></a>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/React.svg" alt="React" height="30" width="30" /></a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/Tailwing.svg" alt="Tailwind" height="30" width="30" /></a>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/Tailwind.svg" alt="Tailwind" height="30" width="30" /></a>
         </td>
         <td align="center">
             <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="imgs/fastapi-svgrepo-com.svg" alt="FastAPI" height="30" width="30" /></a>
@@ -64,9 +64,9 @@
             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="imgs/Rust.svg" alt="Rust" height="30" width="30" /></a>
         </td>
         <td align="center">
-            <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="imgs/Oracle.svg" alt="Oracle" height="30" width="70" /></a>
             <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="imgs/Redis.svg" alt="Redis" height="30" width="30" /></a>
             <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="imgs/SqlLite.svg" alt="SQLite" height="30" width="30" /></a>
+            <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="imgs/Oracle.svg" alt="Oracle" height="50" width="90" /></a>
         </td>
         <!-- <td align="center">
             <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="imgs/tensorflow-svgrepo-com.svg" alt="TensorFlow" height="30" width="30" /></a>
