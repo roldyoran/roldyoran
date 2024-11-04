@@ -6,18 +6,15 @@
 - 📄 Know about my experiences [In-progress](In-progress)
 
 <h3 align="center">Connect with me:</h3>
-<div align="left">
-<p align="center">
-    <a href="https://linkedin.com/in/in-progress" target="blank">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://linkedin.com/in/in-progress" target="_blank">
         <img src="imgs/Linkeding.svg" alt="LinkedIn" height="50" width="50" />
     </a>
-</p>
-<p align="center">
-    <a href="/" target="blank">
+    <a href="/" target="_blank">
         <img src="imgs/Mail.svg" alt="Mail" height="50" width="50" />
     </a>
-</p>
 </div>
+
 
 <h3 align="center">Skills Resume</h3>
 
@@ -73,7 +70,7 @@
             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="imgs/Rust.svg" alt="Rust" height="30" width="30" /></a>
         </td>
         <td align="center">
-            <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="imgs/Oracle.svg" alt="Oracle" height="50" width="70" /></a>
+            <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="imgs/Oracle.svg" alt="Oracle" height="30" width="70" /></a>
             <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="imgs/Redis.svg" alt="Redis" height="30" width="30" /></a>
             <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="imgs/SqlLite.svg" alt="SQLite" height="30" width="30" /></a>
         </td>
