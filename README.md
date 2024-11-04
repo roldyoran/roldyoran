@@ -16,15 +16,8 @@
 </div>
 
 
-<h3 align="center">Skills Resume</h3>
-
-- **Frontend**: React, Astro, TailwindCSS
-- **Backend**: FastAPI, Flask, Golang
-- **DevOps**: Docker, Kubernetes, AWS, GCP
-
-<br>
-
 <h2 align="center">Portofilio</h2>
+<h5>In-progress...</h5>
 <!-- <p align="center">
     <a href="https://github.com/roldyoran/Roldyoran-Portfolio" target="blank">
         <img src="imgs/Portfolio.svg" alt="Portfolio" height="50" width="50" />
@@ -32,6 +25,7 @@
 </p> -->
 
 <h2 align="center">Proyects in progress</h2>
+<h5>In-progress...</h5>
 <!-- <p align="center">
     <a href="https://github.com/roldyoran/Roldyoran-Portfolio" target="blank">
         <img src="imgs/In-progress.svg" alt="In-progress" height="50" width="50" />
