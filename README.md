@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Alvarez</h1>
-<h3 align="center">Systems Engineering Student (final year of college)</h3>
+<h3 align="center">Systems Engineering Student in USAC (final year of college)</h3>
 
 - 👨‍💻 All of my projects are available at [In-progress](In-progress)
 - 📫 How to reach me **edgaralvares4208@gmail.com**
