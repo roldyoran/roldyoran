@@ -66,7 +66,7 @@
         <td align="center">
             <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="imgs/Redis.svg" alt="Redis" height="30" width="30" /></a>
             <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="imgs/SqlLite.svg" alt="SQLite" height="30" width="30" /></a>
-            <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="imgs/Oracle.svg" alt="Oracle" height="50" width="90" /></a>
+            <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="imgs/Oracle.svg" alt="Oracle" height="50" width="30" /></a>
         </td>
         <!-- <td align="center">
             <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="imgs/tensorflow-svgrepo-com.svg" alt="TensorFlow" height="30" width="30" /></a>
