@@ -5,13 +5,13 @@
 - 📫 How to reach me **edgaralvares4208@gmail.com**
 - 📄 Know about my experiences [In-progress](In-progress)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact me:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://linkedin.com/in/in-progress" target="_blank">
+    <!-- <a href="https://linkedin.com/in/in-progress" target="_blank">
         <img src="imgs/Linkeding.svg" alt="LinkedIn" height="50" width="50" />
-    </a>
+    </a> -->
     <a href="/" target="_blank">
-        <img src="imgs/Mail.svg" alt="Mail" height="50" width="50" />
+        <img src="imgs/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
     </a>
 </div>
 
@@ -48,13 +48,13 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/Astro.svg" alt="Astro" height="30" width="30" /></a>
+            <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/Astro.svg" alt="Astro" height="30" width="30" title="Astro" /></a>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/React.svg" alt="React" height="30" width="30" /></a>
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="imgs/Vue.svg" alt="Vue" height="30" width="30" /></a>
             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/Tailwind.svg" alt="Tailwind" height="30" width="30" /></a>
         </td>
         <td align="center">
-            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="imgs/Fastapi.svg" alt="FastAPI" height="30" width="30" /></a>
+            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="imgs/FastApi.svg" alt="FastAPI" height="30" width="30" /></a>
             <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="imgs/Flask.svg" alt="Flask" height="30" width="30" /></a>
         </td>
         <td align="center">
