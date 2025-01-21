@@ -1,39 +1,38 @@
 <h1 align="center">Hi 👋, I'm Edgar Alvarez</h1>
 <h3 align="center">Systems Engineering Student in USAC (final year of college)</h3>
 
-- 👨‍💻 All of my projects are available at [In-progress](In-progress)
+- 👨‍💻 My portfolio is available at [In-progress](In-progress)
 - 📫 How to reach me **edgaralvares4208@gmail.com**
-- 📄 Know about my experiences [In-progress](In-progress)
-
-<h3 align="center">Contact me:</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <!-- <a href="https://linkedin.com/in/in-progress" target="_blank">
-        <img src="imgs/icons-color/Linkeding.svg" alt="LinkedIn" height="50" width="50" />
-    </a> -->
-    <a href="/" target="_blank">
-        <img src="imgs/icons-color/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
-    </a>
-</div>
 
 
-<h2 align="center">Portofilio</h2>
-<h5>In-progress...</h5>
-<!-- <p align="center">
-    <a href="https://github.com/roldyoran/Roldyoran-Portfolio" target="blank">
-        <img src="imgs/icons-color/Portfolio.svg" alt="Portfolio" height="50" width="50" />
-    </a>
-</p> -->
+<table align="center" style="width: 100%; text-align: center; margin-top: 2rem;">
+    <tr>
+        <td> Contact me: </td>
+        <td> My Portfolio: </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="/" target="_blank">
+                <img src="imgs/icons-color/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
+            </a>
+        </td>
+        <td>
+            <a href="/" target="_blank">
+                <img src="imgs/icons-color/Dev.svg" alt="Portfolio" height="50" width="50" title="My Portfolio" />
+            </a>
+        </td>
+    </tr>
+</table>
 
-<h2 align="center">Proyects in progress</h2>
-<h5>In-progress...</h5>
-<!-- <p align="center">
-    <a href="https://github.com/roldyoran/Roldyoran-Portfolio" target="blank">
-        <img src="imgs/icons-color/In-progress.svg" alt="In-progress" height="50" width="50" />
-    </a>
-</p>     -->
+
+<h2 align="center" style="margin-top: 2rem;">Proyects</h2>
+<a href="https://antagonista.site/" target="_blank" rel="noreferrer">
+    <img src="imgs/proyects/antagonista-site.png" alt="Antagonista" style="width: 100%; border-radius: 0.6rem;" title="Antagonista.site" />
+</a>
 
 
-<h2 align="center">Skills and Tools</h2>
+
+<h2 align="center" style="margin-top: 2rem;">Skills and Tools</h2>
 <table align="center" style="border-collapse: collapse; text-align: center;">
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Frontend</b></td>
