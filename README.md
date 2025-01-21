@@ -25,11 +25,31 @@
 </table>
 
 
-<h2 align="center" style="margin-top: 2rem;">Proyects</h2>
-<a href="https://antagonista.site/" target="_blank" rel="noreferrer">
-    <img src="imgs/proyects/antagonista-site.png" alt="Antagonista" style="width: 100%; border-radius: 0.6rem;" title="Antagonista.site" />
-</a>
-
+<h2 align="center" style="margin-top: 2rem;">Projects</h2>
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; align-items: center; justify-items: center; margin-top: 2rem;">
+    <div>
+        <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" />
+    </div>
+    <div>
+        <h3>Antagonsita.site</h3>
+        <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonist' created by Saikomic.
+Fans of the manga can visit the website and vote for their favorite characters</p>
+        <div style="display: flex; gap: 1rem;">
+        <!-- put icons of astro, react, tailwind here -->
+            <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="30" width="30" title="Astro" /></a>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="30" width="30" title="React" /></a>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="30" width="30" title="TailwindCSS" /></a>
+        </div>
+    </div>
+    <div>
+        <img src="imgs/icons-color/Project2.svg" alt="Project 2" height="100" width="100" />
+    </div>
+    <div>
+        <h3>Project 2 In Progress</h3>
+        <p>Description of the second project goes here. You can explain the purpose, technology stack, and features.</p>
+    </div>
+    <!-- Add more projects as needed -->
+</div>
 
 
 <h2 align="center" style="margin-top: 2rem;">Skills and Tools</h2>
