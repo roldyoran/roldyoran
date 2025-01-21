@@ -54,8 +54,8 @@
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Languages</b></td>
         <td>
             <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Python.svg" alt="Python" height="30" width="30" title="Python" /></a>
-            <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="imgs/icons-color/Javascript.svg" alt="JavaScript" height="30" width="30" title="JavaScript" /></a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Typescript.svg" alt="TypeScript" height="30" width="30" title="TypeScript" /></a>
+            <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="imgs/icons-color/JavaScript.svg" alt="JavaScript" height="30" width="30" title="JavaScript" /></a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="30" width="30" title="TypeScript" /></a>
             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Rust.svg" alt="Rust" height="30" width="30" title="Rust" /></a>
         </td>
     </tr>
