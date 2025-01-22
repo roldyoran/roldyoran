@@ -38,24 +38,38 @@
                 <h3>ANTAGONISTA.SITE</h3>
             </a>
             <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
-            <div style="display: flex; flex-direction: row; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
-                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" /></a>
+            <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
+                <tr>
+                    <td align="center">
+                    <a href="https://astro.build/" target="_blank" rel="noreferrer">
+                        <img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" />
+                    </a>
+                    <br />
                     <span>Astro</span>
-                </div>
-                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" /></a>
+                    </td>
+                    <td align="center">
+                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                        <img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" />
+                    </a>
+                    <br />
                     <span>React</span>
-                </div>
-                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" /></a>
+                    </td>
+                    <td align="center">
+                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                        <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" />
+                    </a>
+                    <br />
                     <span>Tailwind</span>
-                </div>
-                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                    <a href="https://turso.tech/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" /></a>
+                    </td>
+                    <td align="center">
+                    <a href="https://turso.tech/" target="_blank" rel="noreferrer">
+                        <img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" />
+                    </a>
+                    <br />
                     <span>Turso</span>
-                </div>
-            </div>
+                    </td>
+                </tr>
+            </table>
         </td>
     </tr>
     <tr>
