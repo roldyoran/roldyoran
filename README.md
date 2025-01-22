@@ -38,7 +38,7 @@
                 <h3>ANTAGONISTA.SITE</h3>
             </a>
             <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
-            <div style="display: flex; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
+            <div style="display: flex; flex-direction: row; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
                 <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
                     <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" /></a>
                     <span>Astro</span>
