@@ -5,18 +5,18 @@
 - 📫 How to reach me **edgaralvares4208@gmail.com**
 
 
-<table align="center" style="width: 100%; text-align: center; margin-top: 2rem;">
+<table align="center" style="width: 100%; text-align: center; margin-top: 2rem; border-spacing: 1rem;">
     <tr>
-        <td> CONTACT ME: </td>
-        <td> MY PORTFOLIO: </td>
+        <td style="font-weight: bold; font-size: 1.2rem;">CONTACT ME:</td>
+        <td style="font-weight: bold; font-size: 1.2rem;">MY PORTFOLIO:</td>
     </tr>
-    <tr style="height: 50px; align-items: center;">
-        <td>
+    <tr style="height: 50px;">
+        <td style="vertical-align: middle;">
             <a href="/" target="_blank">
                 <img src="imgs/icons-color/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
             </a>
         </td>
-        <td>
+        <td style="vertical-align: middle;">
             <a href="/" target="_blank">
                 <img src="imgs/icons-color/Dev.svg" alt="Portfolio" height="50" width="50" title="My Portfolio" />
             </a>
@@ -25,47 +25,54 @@
 </table>
 
 
-<h2 align="center" style="margin-top: 2rem;">PROJECTS</h2>
-<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; align-items: center; justify-items: center; margin-top: 2rem;">
-    <div>
-        <a href="https://antagonista.site/" target="_blank">    
-            <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 80%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />  
-        </a>
-    </div>
-    <div>
-    <a href="https://antagonista.site/" target="_blank"><h3>ANTAGONISTA.SITE</h3></a>
-        <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters</p>
-        <div style="display: flex; gap: 1rem; margin-top: 1rem;">
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" /></a>
-                <span>Astro</span>
+
+<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2><table align="center" style="width: 100%; border-spacing: 2rem; margin-top: 2rem;">
+    <tr>
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank">
+                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
+            </a>
+        </td>
+        <td style="text-align: left; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank">
+                <h3>ANTAGONISTA.SITE</h3>
+            </a>
+            <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
+            <div style="display: flex; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" /></a>
+                    <span>Astro</span>
+                </div>
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" /></a>
+                    <span>React</span>
+                </div>
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" /></a>
+                    <span>Tailwind</span>
+                </div>
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                    <a href="https://turso.tech/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" /></a>
+                    <span>Turso</span>
+                </div>
             </div>
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" /></a>
-                <span>React</span>
-            </div>
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" /></a>
-                <span>Tailwind</span>
-            </div>
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
-                <a href="https://turso.tech/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" /></a>
-                <span>Turso</span>
-            </div>
-        </div>
-    </div>
-    <div>
-        <img src="imgs/icons-color/Project2.svg" alt="Project 2" height="100" width="100" />
-    </div>
-    <div>
-        <h3>Project 2 In Progress</h3>
-        <p>Description of the second project goes here. You can explain the purpose, technology stack, and features.</p>
-    </div>
-    <!-- Add more projects as needed -->
-</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="imgs/icons-color/Project2.svg" alt="Project 2" height="100" width="100" />
+        </td>
+        <td style="text-align: left; vertical-align: middle;">
+            <h3>Project 2 In Progress</h3>
+            <p>Description of the second project goes here. You can explain the purpose, technology stack, and features.</p>
+        </td>
+    </tr>
+    <!-- Add more rows as needed -->
+</table>
 
 
-<h2 align="center" style="margin-top: 2rem;">Skills and Tools</h2>
+
+<h2 align="center" style="margin-top: 2rem; font-weight: bold;">SKILLS AND TOOLS</h2>
 <table align="center" style="border-collapse: collapse; text-align: center;">
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Frontend</b></td>
