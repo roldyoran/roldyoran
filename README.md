@@ -26,7 +26,7 @@
 
 
 
-<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2><table align="center" style="width: 100%; border-spacing: 2rem; margin-top: 2rem;">
+<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2><table align="center" style="width: 100%; border-spacing: 2rem; padding: 1rem;">
     <tr>
         <td style="width: 50%; text-align: center; vertical-align: middle;">
             <a href="https://antagonista.site/" target="_blank">
