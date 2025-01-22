@@ -29,8 +29,7 @@
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; align-items: center; justify-items: center; margin-top: 2rem;">
     <div>
         <a href="https://antagonista.site/" target="_blank">    
-            <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" />  
-            <title>Antagonista.site</title>
+            <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 80%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />  
         </a>
     </div>
     <div>
