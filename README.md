@@ -5,12 +5,15 @@
 - 📫 How to reach me **edgaralvares4208@gmail.com**
 
 
+<br>
+
+
 <table align="center" style="width: 100%; text-align: center; margin-top: 2rem; border-spacing: 1rem;">
-    <tr>
+    <tr align="center">
         <td style="font-weight: bold; font-size: 1.2rem;">CONTACT ME:</td>
         <td style="font-weight: bold; font-size: 1.2rem;">MY PORTFOLIO:</td>
     </tr>
-    <tr style="height: 50px;">
+    <tr align="center" style="height: 50px;">
         <td style="vertical-align: middle;">
             <a href="/" target="_blank">
                 <img src="imgs/icons-color/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
@@ -24,6 +27,8 @@
     </tr>
 </table>
 
+
+<br>
 
 
 <h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2>
@@ -63,6 +68,12 @@
                         <span>Tailwind</span>
                     </td>
                     <td align="center">
+                        <a href="https://typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="20" width="20" title="TypeScript" />
+                        </a>
+                        <br />
+                        <span>TypeScript</span>
+                    <td align="center">
                         <a href="https://turso.tech/" target="_blank" rel="noopener noreferrer">
                             <img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" />
                         </a>
@@ -84,6 +95,8 @@
     </tr>
 </table>
 
+
+<br>
 
 
 <h2 align="center" style="margin-top: 2rem; font-weight: bold;">SKILLS AND TOOLS</h2>
@@ -145,6 +158,7 @@
 
 
 <br>
+
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
