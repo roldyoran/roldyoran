@@ -7,10 +7,10 @@
 
 <table align="center" style="width: 100%; text-align: center; margin-top: 2rem;">
     <tr>
-        <td> Contact me: </td>
-        <td> My Portfolio: </td>
+        <td> CONTACT ME: </td>
+        <td> MY PORTFOLIO: </td>
     </tr>
-    <tr>
+    <tr style="height: 50px; align-items: center;">
         <td>
             <a href="/" target="_blank">
                 <img src="imgs/icons-color/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
@@ -25,20 +25,34 @@
 </table>
 
 
-<h2 align="center" style="margin-top: 2rem;">Projects</h2>
+<h2 align="center" style="margin-top: 2rem;">PROJECTS</h2>
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; align-items: center; justify-items: center; margin-top: 2rem;">
     <div>
-        <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" />
+        <a href="https://antagonista.site/" target="_blank">    
+            <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" />  
+            <title>Antagonista.site</title>
+        </a>
     </div>
     <div>
-        <h3>Antagonsita.site</h3>
-        <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonist' created by Saikomic.
-Fans of the manga can visit the website and vote for their favorite characters</p>
-        <div style="display: flex; gap: 1rem;">
-        <!-- put icons of astro, react, tailwind here -->
-            <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="30" width="30" title="Astro" /></a>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="30" width="30" title="React" /></a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="30" width="30" title="TailwindCSS" /></a>
+    <a href="https://antagonista.site/" target="_blank"><h3>ANTAGONISTA.SITE</h3></a>
+        <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters</p>
+        <div style="display: flex; gap: 1rem; margin-top: 1rem;">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" /></a>
+                <span>Astro</span>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" /></a>
+                <span>React</span>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" /></a>
+                <span>Tailwind</span>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.1rem;">
+                <a href="https://turso.tech/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" /></a>
+                <span>Turso</span>
+            </div>
         </div>
     </div>
     <div>
