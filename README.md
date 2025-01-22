@@ -26,47 +26,48 @@
 
 
 
-<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2><table align="center" style="width: 100%; border-spacing: 2rem; padding: 1rem;">
+<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2>
+<table style="margin: auto; border-spacing: 2rem;">
     <tr>
         <td style="width: 50%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
                 <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
             </a>
         </td>
-        <td style="text-align: left; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank">
-                <h3>ANTAGONISTA.SITE</h3>
+        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                ANTAGONISTA.SITE
             </a>
             <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
             <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
                 <tr>
                     <td align="center">
-                    <a href="https://astro.build/" target="_blank" rel="noreferrer">
-                        <img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" />
-                    </a>
-                    <br />
-                    <span>Astro</span>
+                        <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" />
+                        </a>
+                        <br />
+                        <span>Astro</span>
                     </td>
                     <td align="center">
-                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                        <img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" />
-                    </a>
-                    <br />
-                    <span>React</span>
+                        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" />
+                        </a>
+                        <br />
+                        <span>React</span>
                     </td>
                     <td align="center">
-                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                        <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" />
-                    </a>
-                    <br />
-                    <span>Tailwind</span>
+                        <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" />
+                        </a>
+                        <br />
+                        <span>Tailwind</span>
                     </td>
                     <td align="center">
-                    <a href="https://turso.tech/" target="_blank" rel="noreferrer">
-                        <img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" />
-                    </a>
-                    <br />
-                    <span>Turso</span>
+                        <a href="https://turso.tech/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" />
+                        </a>
+                        <br />
+                        <span>Turso</span>
                     </td>
                 </tr>
             </table>
@@ -76,12 +77,11 @@
         <td style="text-align: center; vertical-align: middle;">
             <img src="imgs/icons-color/Project2.svg" alt="Project 2" height="100" width="100" />
         </td>
-        <td style="text-align: left; vertical-align: middle;">
+        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
             <h3>Project 2 In Progress</h3>
             <p>Description of the second project goes here. You can explain the purpose, technology stack, and features.</p>
         </td>
     </tr>
-    <!-- Add more rows as needed -->
 </table>
 
 
