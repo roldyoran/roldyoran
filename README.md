@@ -114,6 +114,7 @@
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Backend</b></td>
         <td>
             <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/FastApi.svg" alt="FastAPI" height="30" width="30" title="FastAPI" /></a>
+            <a href="https://hono.dev/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Hono.svg" alt="Hono" height="30" width="30" title="Hono" /></a>
         </td>
     </tr>
     <tr>
