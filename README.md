@@ -86,11 +86,40 @@
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="imgs/icons-color/Project2.svg" alt="Project 2" height="100" width="100" />
+            <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
         </td>
         <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
-            <h3>Project 2 In Progress</h3>
-            <p>Description of the second project goes here. You can explain the purpose, technology stack, and features.</p>
+            <h3>GKE-K8S-OLYMPIC-MICROSERVICES</h3>
+            <p>This cloud-native microservices platform monitors the University of San Carlos Olympics in real time, leveraging GKE (Google Kubernetes Engine) for scalable orchestration. The system uses Go/Rust microservices with gRPC communication, processes win/loss events via Kafka, caches results in Redis, and visualizes data with Grafana/Prometheus. Designed for high traffic, it simulates load with Locust and auto-scales dynamically, serving as a blueprint for event-driven architectures on GCP.</p>
+            <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
+                <tr>
+                    <td align="center">
+                        <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Kubernetes.svg" alt="Astro" height="20" width="20" title="Kubernetes" />
+                        </a>
+                        <br />
+                        <span>Kubernetes</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://docker.com/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Docker.svg" alt="React" height="20" width="20" title="React" />
+                        </a>
+                        <br />
+                        <span>Docker</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://grpc.io/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/GRPC.svg" alt="TypeScript" height="20" width="20" title="GRPC" />
+                        </a>
+                        <br />
+                        <span>gRPC</span>
+                    <td align="center">
+                            <img src="imgs/icons-color/More.svg" alt="Turso" height="20" width="20" title="and more..." />
+                        <br />
+                        <span>& more...</span>
+                    </td>
+                </tr>
+            </table>
         </td>
     </tr>
 </table>
