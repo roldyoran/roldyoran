@@ -40,9 +40,11 @@
             </a>
         </td>
         <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <h3>ANTAGONISTA.SITE</h3>
-            </a>
+            <h3>
+                <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                    ANTAGONISTA.SITE
+                </a>
+            </h3>
             <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
             <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
                 <tr>
