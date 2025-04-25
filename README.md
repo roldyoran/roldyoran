@@ -15,8 +15,8 @@
     </tr>
     <tr align="center" style="height: 50px;">
         <td style="vertical-align: middle;">
-            <a href="/" target="_blank">
-                <img src="imgs/icons-color/Mail.svg" alt="Mail" height="50" width="50" title="Send me an email" />
+            <a href="mailto:edgaralvares4208@gmail.com">
+                <img src="imgs/icons-color/Mail.svg" alt="Email" height="40" width="40" />
             </a>
         </td>
         <td style="vertical-align: middle;">
