@@ -38,7 +38,7 @@
   <tr>
     <td style="width: 40%; text-align: center;">
     <a href="https://antagonista.site/" target="_blank">
-      <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 100%; border-radius: 0.5rem;" />
+      <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 40%; border-radius: 0.5rem;" />
     </a>
     </td>
     <td style="vertical-align: top;">
