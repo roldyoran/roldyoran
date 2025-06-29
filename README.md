@@ -98,7 +98,7 @@
 <!-- Proyecto 3 -->
   <tr>
     <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
-      <h3>🔗 SHORTURLSHORTURL</h3>
+      <h3>🔗 SHORTURL</h3>
       <p>
         Modern and efficient URL shortener, ideal for sharing links quickly and professionally.
 Powered by Cloudflare Workers for maximum speed and reliability.
