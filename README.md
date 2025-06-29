@@ -4,7 +4,9 @@
 - 👨‍💻 My portfolio is available at [In-progress](In-progress)
 - 📫 How to reach me **edgaralvares4208@gmail.com**
 
+
 <br>
+
 
 <table align="center" style="width: 100%; text-align: center; margin-top: 2rem; border-spacing: 1rem;">
     <tr align="center">
@@ -25,128 +27,238 @@
     </tr>
 </table>
 
+
 <br>
+
 
 <h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2>
 
-<!-- Proyecto 1: Antagonista.site -->
-<div align="center" style="margin: 2rem 0; padding: 1.5rem; border: 1px solid #e1e8ed; border-radius: 12px; background: #f8f9fa;">
-    <table style="width: 100%; max-width: 900px;">
-        <tr>
-            <td style="width: 45%; text-align: center; vertical-align: top; padding-right: 2rem;">
+<table style="margin: auto; border-spacing: 2rem;">
+    <tr>
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
+            </a>
+        </td>
+        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
+            <h3>
                 <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                    <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-                </a>
-            </td>
-            <td style="width: 55%; text-align: left; vertical-align: top; padding-left: 1rem;">
-                <h3 style="margin-top: 0; color: #1a202c; font-size: 1.5rem;">
                     🌟 ANTAGONISTA.SITE
-                </h3>
-                <p style="color: #4a5568; line-height: 1.6; margin: 1rem 0;">
-                    Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.
-                </p>
-                <!-- Tecnologías usadas -->
-                <div style="margin: 1.5rem 0;">
-                    <h4 style="color: #2d3748; margin-bottom: 0.5rem;">🛠️ Tech Stack:</h4>
-                    <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Astro.svg" alt="Astro" height="16" width="16" style="margin-right: 4px;" />
-                            Astro
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/React.svg" alt="React" height="16" width="16" style="margin-right: 4px;" />
-                            React
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="16" width="16" style="margin-right: 4px;" />
-                            Tailwind
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="16" width="16" style="margin-right: 4px;" />
-                            TypeScript
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Turso.svg" alt="Turso" height="16" width="16" style="margin-right: 4px;" />
-                            Turso
-                        </span>
-                    </div>
-                </div>
-                <!-- Botones de acción -->
-                <div style="margin-top: 1.5rem; display: flex; gap: 12px; flex-wrap: wrap;">
-                    <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background: #4299e1; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
-                        🌐 Live Demo
-                    </a>
-                    <a href="#" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background: #2d3748; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
-                        <img src="imgs/icons-color/Github.svg" alt="GitHub" height="30" width="30" title="GitHub" />  Repository
-                    </a>
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
+                </a>
+            </h3>
+            <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
+            <p><strong>Tech Stack:</strong></p>
+            <table style="margin-top: 0.5rem; margin-bottom: 1rem;">
+                <tr>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Astro.svg" alt="Astro" height="18" width="18" title="Astro" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Astro</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/React.svg" alt="React" height="18" width="18" title="React" />
+                        <br />
+                        <span style="font-size: 0.8rem;">React</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="18" width="18" title="TailwindCSS" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Tailwind</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="18" width="18" title="TypeScript" />
+                        <br />
+                        <span style="font-size: 0.8rem;">TypeScript</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Turso.svg" alt="Turso" height="18" width="18" title="Turso" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Turso</span>
+                    </td>
+                </tr>
+            </table>
+            <p>
+                <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/🌐_Live_Demo-4299e1?style=for-the-badge&logoColor=white" alt="Live Demo" />
+                </a>
+                &nbsp;
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/📂_Repository-2d3748?style=for-the-badge&logoColor=white" alt="Repository" />
+                </a>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE Olympic Architecture" style="width: 100%; height: auto; border-radius: 0.5rem;" title="GKE Olympic Microservices" />
+        </td>
+        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
+            <h3>⚡ GKE-K8S-OLYMPIC-MICROSERVICES</h3>
+            <p>Cloud-native microservices platform that monitors the University of San Carlos Olympics in real time. Leverages GKE for scalable orchestration with Go/Rust microservices, gRPC communication, Kafka event processing, Redis caching, and Grafana/Prometheus visualization.</p>
+            <p><strong>Tech Stack:</strong></p>
+            <table style="margin-top: 0.5rem; margin-bottom: 1rem;">
+                <tr>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Kubernetes.svg" alt="Kubernetes" height="18" width="18" title="Kubernetes" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Kubernetes</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Docker.svg" alt="Docker" height="18" width="18" title="Docker" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Docker</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/GRPC.svg" alt="gRPC" height="18" width="18" title="gRPC" />
+                        <br />
+                        <span style="font-size: 0.8rem;">gRPC</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Rust.svg" alt="Rust" height="18" width="18" title="Rust" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Rust</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Redis.svg" alt="Redis" height="18" width="18" title="Redis" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Redis</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/Grafana.svg" alt="Grafana" height="18" width="18" title="Grafana" />
+                        <br />
+                        <span style="font-size: 0.8rem;">Grafana</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <span style="font-size: 0.8rem; font-weight: bold;">Go</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <span style="font-size: 0.8rem; font-weight: bold;">Kafka</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <span style="font-size: 0.8rem; font-weight: bold;">Prometheus</span>
+                    </td>
+                    <td align="center" style="padding: 5px;">
+                        <img src="imgs/icons-color/More.svg" alt="More" height="18" width="18" title="and more..." />
+                        <br />
+                        <span style="font-size: 0.8rem;">& more</span>
+                    </td>
+                </tr>
+            </table>
+            <p>
+                <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/📂_Repository-2d3748?style=for-the-badge&logoColor=white" alt="Repository" />
+                </a>
+                &nbsp;
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/📖_Documentation-48bb78?style=for-the-badge&logoColor=white" alt="Documentation" />
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
 
-<!-- Proyecto 2: GKE Olympic Microservices -->
-<div align="center" style="margin: 2rem 0; padding: 1.5rem; border: 1px solid #e1e8ed; border-radius: 12px; background: #f8f9fa;">
-    <table style="width: 100%; max-width: 900px;">
-        <tr>
-            <td style="width: 45%; text-align: center; vertical-align: top; padding-right: 2rem;">
-                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE Olympic Architecture" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-            </td>
-            <td style="width: 55%; text-align: left; vertical-align: top; padding-left: 1rem;">
-                <h3 style="margin-top: 0; color: #1a202c; font-size: 1.5rem;">
-                    ⚡ GKE-K8S-OLYMPIC-MICROSERVICES
-                </h3>
-                <p style="color: #4a5568; line-height: 1.6; margin: 1rem 0;">
-                    Cloud-native microservices platform that monitors the University of San Carlos Olympics in real time. Leverages GKE for scalable orchestration with Go/Rust microservices, gRPC communication, Kafka event processing, Redis caching, and Grafana/Prometheus visualization.
-                </p>
-                <!-- Tecnologías usadas -->
-                <div style="margin: 1.5rem 0;">
-                    <h4 style="color: #2d3748; margin-bottom: 0.5rem;">🛠️ Tech Stack:</h4>
-                    <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Kubernetes.svg" alt="Kubernetes" height="16" width="16" style="margin-right: 4px;" />
-                            Kubernetes
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Docker.svg" alt="Docker" height="16" width="16" style="margin-right: 4px;" />
-                            Docker
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/GRPC.svg" alt="gRPC" height="16" width="16" style="margin-right: 4px;" />
-                            gRPC
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Rust.svg" alt="Rust" height="16" width="16" style="margin-right: 4px;" />
-                            Rust
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            Go
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Redis.svg" alt="Redis" height="16" width="16" style="margin-right: 4px;" />
-                            Redis
-                        </span>
-                        <span style="display: inline-flex; align-items: center; background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 0.8rem;">
-                            <img src="imgs/icons-color/Grafana.svg" alt="Grafana" height="16" width="16" style="margin-right: 4px;" />
-                            Grafana
-                        </span>
-                    </div>
-                </div>
-                <!-- Botones de acción -->
-                <div style="margin-top: 1.5rem; display: flex; gap: 12px; flex-wrap: wrap;">
-                    <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background: #2d3748; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
-                        📂 Repository
-                    </a>
-                    <a href="#" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background: #48bb78; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; font-size: 0.9rem;">
-                        📖 Documentation
-                    </a>
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
+
+
+<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2>
+<table style="margin: auto; border-spacing: 2rem;">
+    <tr>
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
+            </a>
+        </td>
+        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
+            <h3>
+                <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                    ANTAGONISTA.SITE
+                </a>
+            </h3>
+            <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
+            <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
+                <tr>
+                    <td align="center">
+                        <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" />
+                        </a>
+                        <br />
+                        <span>Astro</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" />
+                        </a>
+                        <br />
+                        <span>React</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" />
+                        </a>
+                        <br />
+                        <span>Tailwind</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="20" width="20" title="TypeScript" />
+                        </a>
+                        <br />
+                        <span>TypeScript</span>
+                    <td align="center">
+                        <a href="https://turso.tech/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" />
+                        </a>
+                        <br />
+                        <span>Turso</span>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
+        </td>
+        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
+            <h3>GKE-K8S-OLYMPIC-MICROSERVICES</h3>
+            <p>This cloud-native microservices platform monitors the University of San Carlos Olympics in real time, leveraging GKE (Google Kubernetes Engine) for scalable orchestration. The system uses Go/Rust microservices with gRPC communication, processes win/loss events via Kafka, caches results in Redis, and visualizes data with Grafana/Prometheus. Designed for high traffic, it simulates load with Locust and auto-scales dynamically, serving as a blueprint for event-driven architectures on GCP.</p>
+            <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
+                <tr>
+                    <td align="center">
+                        <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Kubernetes.svg" alt="Astro" height="20" width="20" title="Kubernetes" />
+                        </a>
+                        <br />
+                        <span>Kubernetes</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://docker.com/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/Docker.svg" alt="React" height="20" width="20" title="React" />
+                        </a>
+                        <br />
+                        <span>Docker</span>
+                    </td>
+                    <td align="center">
+                        <a href="https://grpc.io/" target="_blank" rel="noopener noreferrer">
+                            <img src="imgs/icons-color/GRPC.svg" alt="TypeScript" height="20" width="20" title="GRPC" />
+                        </a>
+                        <br />
+                        <span>gRPC</span>
+                    <td align="center">
+                            <img src="imgs/icons-color/More.svg" alt="Turso" height="20" width="20" title="and more..." />
+                        <br />
+                        <span>& more...</span>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
 
 <br>
+
 
 <h2 align="center" style="margin-top: 2rem; font-weight: bold;">SKILLS AND TOOLS</h2>
 <table align="center" style="border-collapse: collapse; text-align: center;">
@@ -206,7 +318,9 @@
     </tr>
 </table>
 
+
 <br>
+
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
