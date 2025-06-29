@@ -48,18 +48,18 @@
         Users can vote for their 3 favorite characters.
       </p>
       <p><b>Tech Stack:</b></p>
-      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
+      <p align="center">
         <a href="https://astro.build/" target="_blank"><img src="imgs/icons-color/Astro.svg" height="20" title="Astro" /></a>
         <a href="https://reactjs.org/" target="_blank"><img src="imgs/icons-color/React.svg" height="20" title="React" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/icons-color/Tailwind.svg" height="20" title="TailwindCSS" /></a>
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
         <a href="https://turso.tech/" target="_blank"><img src="imgs/icons-color/Turso.svg" height="20" title="Turso" /></a>
       </p>
-      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
+      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem" align="center">
         <a href="https://antagonista.site/" target="_blank">
         <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDZoLTZhMiAyIDAgMCAwIC0yIDJ2MTBhMiAyIDAgMCAwIDIgMmgxMGEyIDIgMCAwIDAgMiAtMnYtNiIvPjxwYXRoIGQ9Ik0xMSAxM2w5LTkiLz48cGF0aCBkPSJNMTUgNGg1djUiLz48L3N2Zz4=&logoColor=white&labelColor=000000" />
         </a>
-        <a href="https://github.com/roldyoran/antagonista-voting" target="_blank">
+        <a href="https://github.com/roldyoran/antagonista-site" target="_blank">
           <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
