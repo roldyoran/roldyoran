@@ -35,13 +35,13 @@
 
 <table style="margin: auto; border-spacing: 2rem;">
   <!-- Proyecto 1 -->
-  <tr>
+    <tr>
         <td style="width: 50%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer" style="width: 50%;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
                 <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
             </a>
         </td>
-    <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
+    <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem; padding-right: 4rem;">
       <h3>🎭 ANTAGONISTA.SITE</h3>
       <p>
         A public voting website celebrating the 50th chapter of the manga <i>Antagonista</i> by Saikomic.
@@ -68,10 +68,8 @@
 
   <!-- Proyecto 2 -->
 <tr>
-        <td style="width: 50%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer" style="width: 50%;">
-                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 100%; border-radius: 0.5rem;" />
-            </a>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
         </td>
     <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
       <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
