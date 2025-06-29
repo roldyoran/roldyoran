@@ -51,7 +51,7 @@
       </p>
       <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
         <a href="https://antagonista.site/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Sitio_Web-14B8A6?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0F172A?style=for-the-badge&logoColor=14B8A6&labelColor=0F172A" />
 </a>
         <a href="https://github.com/roldyoran/antagonista-site" target="_blank">
           <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
