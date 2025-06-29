@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0F172A?style=for-the-badge&logoColor=14B8A6&labelColor=0F172A" />
 </a>
         <a href="https://github.com/roldyoran/antagonista-site" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -68,7 +68,7 @@
   <!-- Proyecto 2 -->
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
-      <a href="/" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank" rel="noopener noreferrer">
         <img src="imgs/proyects/GKE.png" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="GKE"  />
       </a>
     </td>
@@ -93,6 +93,37 @@
       </p>
     </td>
   </tr>
+
+
+<!-- Proyecto 3 -->
+  <tr>
+    <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
+      <h3>🔗 SHORTURLSHORTURL</h3>
+      <p>
+        Modern and efficient URL shortener, ideal for sharing links quickly and professionally.
+Powered by Cloudflare Workers for maximum speed and reliability.
+      </p>
+      <p><b>Tech Stack:</b></p>
+      <p>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
+        <a href="https://cloudflare.com" target="_blank"><img src="imgs/icons-color/Cloudflare_Workers.svg" height="20" title="Cloudflare Workers" /></a>
+        <a href="https://hono.dev/" target="_blank"><img src="imgs/icons-color/Hono.svg" height="20" title="Hono" /></a>
+      </p>
+      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
+        <a href="https://antagonista.site/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0F172A?style=for-the-badge&logoColor=14B8A6&labelColor=0F172A" />
+</a>
+        <a href="https://github.com/roldyoran/shorturl" target="_blank">
+          <img src="https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
+      <a href="https://shorturl-roldyoran.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="imgs/proyects/shorturl.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
+      </a>
+    </td>
+  </tr>  
 </table>
 
 <br>
