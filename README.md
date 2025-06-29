@@ -68,7 +68,7 @@
   <!-- Proyecto 2 -->
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;">
-      <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 90%; height: auto; border-radius: 0.5rem;" title="GKE_structure" />
+      <!-- <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 90%; height: auto; border-radius: 0.5rem;" title="GKE_structure" /> -->
     </td>
     <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
       <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
