@@ -51,8 +51,8 @@
       </p>
       <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
         <a href="https://antagonista.site/" target="_blank">
-        <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDZoLTZhMiAyIDAgMCAwIC0yIDJ2MTBhMiAyIDAgMCAwIDIgMmgxMGEyIDIgMCAwIDAgMiAtMnYtNiIvPjxwYXRoIGQ9Ik0xMSAxM2w5LTkiLz48cGF0aCBkPSJNMTUgNGg1djUiLz48L3N2Zz4=&logoColor=white&labelColor=000000" />
-        </a>
+  <img src="https://img.shields.io/badge/🌐_Sitio_Web-14B8A6?style=for-the-badge&labelColor=0F172A" />
+</a>
         <a href="https://github.com/roldyoran/antagonista-site" target="_blank">
           <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
