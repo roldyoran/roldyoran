@@ -31,132 +31,65 @@
 <br>
 
 
-<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2>
+<h2 align="center">🚀 PROJECTS</h2>
 
-<table style="margin: auto; border-spacing: 2rem;">
-    <tr>
-        <td style="width: 50%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
-            </a>
-        </td>
-        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
-            <h3>
-                <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                    🌟 ANTAGONISTA.SITE
-                </a>
-            </h3>
-            <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
-            <p><strong>Tech Stack:</strong></p>
-            <table style="margin-top: 0.5rem; margin-bottom: 1rem;">
-                <tr>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Astro.svg" alt="Astro" height="18" width="18" title="Astro" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Astro</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/React.svg" alt="React" height="18" width="18" title="React" />
-                        <br />
-                        <span style="font-size: 0.8rem;">React</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="18" width="18" title="TailwindCSS" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Tailwind</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="18" width="18" title="TypeScript" />
-                        <br />
-                        <span style="font-size: 0.8rem;">TypeScript</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Turso.svg" alt="Turso" height="18" width="18" title="Turso" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Turso</span>
-                    </td>
-                </tr>
-            </table>
-            <p>
-                <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.shields.io/badge/🌐_Live_Demo-4299e1?style=for-the-badge&logoColor=white" alt="Live Demo" />
-                </a>
-                &nbsp;
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.shields.io/badge/📂_Repository-2d3748?style=for-the-badge&logoColor=white" alt="Repository" />
-                </a>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE Olympic Architecture" style="width: 100%; height: auto; border-radius: 0.5rem;" title="GKE Olympic Microservices" />
-        </td>
-        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
-            <h3>⚡ GKE-K8S-OLYMPIC-MICROSERVICES</h3>
-            <p>Cloud-native microservices platform that monitors the University of San Carlos Olympics in real time. Leverages GKE for scalable orchestration with Go/Rust microservices, gRPC communication, Kafka event processing, Redis caching, and Grafana/Prometheus visualization.</p>
-            <p><strong>Tech Stack:</strong></p>
-            <table style="margin-top: 0.5rem; margin-bottom: 1rem;">
-                <tr>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Kubernetes.svg" alt="Kubernetes" height="18" width="18" title="Kubernetes" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Kubernetes</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Docker.svg" alt="Docker" height="18" width="18" title="Docker" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Docker</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/GRPC.svg" alt="gRPC" height="18" width="18" title="gRPC" />
-                        <br />
-                        <span style="font-size: 0.8rem;">gRPC</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Rust.svg" alt="Rust" height="18" width="18" title="Rust" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Rust</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Redis.svg" alt="Redis" height="18" width="18" title="Redis" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Redis</span>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/Grafana.svg" alt="Grafana" height="18" width="18" title="Grafana" />
-                        <br />
-                        <span style="font-size: 0.8rem;">Grafana</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <span style="font-size: 0.8rem; font-weight: bold;">Go</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <span style="font-size: 0.8rem; font-weight: bold;">Kafka</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <span style="font-size: 0.8rem; font-weight: bold;">Prometheus</span>
-                    </td>
-                    <td align="center" style="padding: 5px;">
-                        <img src="imgs/icons-color/More.svg" alt="More" height="18" width="18" title="and more..." />
-                        <br />
-                        <span style="font-size: 0.8rem;">& more</span>
-                    </td>
-                </tr>
-            </table>
-            <p>
-                <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.shields.io/badge/📂_Repository-2d3748?style=for-the-badge&logoColor=white" alt="Repository" />
-                </a>
-                &nbsp;
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.shields.io/badge/📖_Documentation-48bb78?style=for-the-badge&logoColor=white" alt="Documentation" />
-                </a>
-            </p>
-        </td>
-    </tr>
+<table align="center" style="width: 100%; border-spacing: 2rem;">
+  <!-- Proyecto 1 -->
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 100%; border-radius: 0.5rem;" />
+    </td>
+    <td style="vertical-align: top;">
+      <h3>🎭 ANTAGONISTA.SITE</h3>
+      <p>
+        A public voting website celebrating the 50th chapter of the manga <i>Antagonista</i> by Saikomic.
+        Users can vote for their 3 favorite characters.
+      </p>
+      <p><b>Tech Stack:</b></p>
+      <p>
+        <a href="https://astro.build/" target="_blank"><img src="imgs/icons-color/Astro.svg" height="20" title="Astro" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img src="imgs/icons-color/React.svg" height="20" title="React" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/icons-color/Tailwind.svg" height="20" title="TailwindCSS" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
+        <a href="https://turso.tech/" target="_blank"><img src="imgs/icons-color/Turso.svg" height="20" title="Turso" /></a>
+      </p>
+      <p>
+        <a href="https://antagonista.site/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+        </a>
+        <a href="https://github.com/roldyoran/antagonista-voting" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Proyecto 2 -->
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 100%; border-radius: 0.5rem;" />
+    </td>
+    <td style="vertical-align: top;">
+      <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
+      <p>
+        Cloud-native platform for tracking Olympic events at USAC in real time. Built with Go/Rust microservices,
+        gRPC, Kafka, Redis, Grafana, and deployed on GKE with autoscaling and simulated traffic using Locust.
+      </p>
+      <p><b>Tech Stack:</b></p>
+      <p>
+        <a href="https://kubernetes.io/" target="_blank"><img src="imgs/icons-color/Kubernetes.svg" height="20" title="Kubernetes" /></a>
+        <a href="https://docker.com/" target="_blank"><img src="imgs/icons-color/Docker.svg" height="20" title="Docker" /></a>
+        <a href="https://grpc.io/" target="_blank"><img src="imgs/icons-color/GRPC.svg" height="20" title="gRPC" /></a>
+        <a href="https://redis.io/" target="_blank"><img src="imgs/icons-color/Redis.svg" height="20" title="Redis" /></a>
+        <a href="https://grafana.com/" target="_blank"><img src="imgs/icons-color/Grafana.svg" height="20" title="Grafana" /></a>
+      </p>
+      <p>
+        <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
