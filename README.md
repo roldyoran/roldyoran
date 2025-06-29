@@ -36,8 +36,10 @@
 <table align="center" style="width: 100%; border-spacing: 2rem;">
   <!-- Proyecto 1 -->
   <tr>
-    <td style="width: 50%; text-align: center;">
+    <td style="width: 40%; text-align: center;">
+    <a href="https://antagonista.site/" target="_blank">
       <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 100%; border-radius: 0.5rem;" />
+    </a>
     </td>
     <td style="vertical-align: top;">
       <h3>🎭 ANTAGONISTA.SITE</h3>
@@ -46,14 +48,14 @@
         Users can vote for their 3 favorite characters.
       </p>
       <p><b>Tech Stack:</b></p>
-      <p>
+      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
         <a href="https://astro.build/" target="_blank"><img src="imgs/icons-color/Astro.svg" height="20" title="Astro" /></a>
         <a href="https://reactjs.org/" target="_blank"><img src="imgs/icons-color/React.svg" height="20" title="React" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/icons-color/Tailwind.svg" height="20" title="TailwindCSS" /></a>
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
         <a href="https://turso.tech/" target="_blank"><img src="imgs/icons-color/Turso.svg" height="20" title="Turso" /></a>
       </p>
-      <p>
+      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
         <a href="https://antagonista.site/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
         </a>
@@ -85,108 +87,11 @@
       </p>
       <p>
         <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20Repo-Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
-</table>
-
-
-
-<h2 align="center" style="margin-top: 2rem; font-weight: bold;">PROJECTS</h2>
-<table style="margin: auto; border-spacing: 2rem;">
-    <tr>
-        <td style="width: 50%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
-            </a>
-        </td>
-        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
-            <h3>
-                <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                    ANTAGONISTA.SITE
-                </a>
-            </h3>
-            <p>Public voting system to celebrate the 50th chapter of the manga 'Antagonista' created by Saikomic. Fans of the manga can visit the website and vote for their 3 favorite characters.</p>
-            <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
-                <tr>
-                    <td align="center">
-                        <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/Astro.svg" alt="Astro" height="20" width="20" title="Astro" />
-                        </a>
-                        <br />
-                        <span>Astro</span>
-                    </td>
-                    <td align="center">
-                        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/React.svg" alt="React" height="20" width="20" title="React" />
-                        </a>
-                        <br />
-                        <span>React</span>
-                    </td>
-                    <td align="center">
-                        <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="20" width="20" title="TailwindCSS" />
-                        </a>
-                        <br />
-                        <span>Tailwind</span>
-                    </td>
-                    <td align="center">
-                        <a href="https://typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="20" width="20" title="TypeScript" />
-                        </a>
-                        <br />
-                        <span>TypeScript</span>
-                    <td align="center">
-                        <a href="https://turso.tech/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/Turso.svg" alt="Turso" height="20" width="20" title="Turso" />
-                        </a>
-                        <br />
-                        <span>Turso</span>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
-        </td>
-        <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
-            <h3>GKE-K8S-OLYMPIC-MICROSERVICES</h3>
-            <p>This cloud-native microservices platform monitors the University of San Carlos Olympics in real time, leveraging GKE (Google Kubernetes Engine) for scalable orchestration. The system uses Go/Rust microservices with gRPC communication, processes win/loss events via Kafka, caches results in Redis, and visualizes data with Grafana/Prometheus. Designed for high traffic, it simulates load with Locust and auto-scales dynamically, serving as a blueprint for event-driven architectures on GCP.</p>
-            <table style="margin-top: 1rem; margin-bottom: 1rem; text-align: center;">
-                <tr>
-                    <td align="center">
-                        <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/Kubernetes.svg" alt="Astro" height="20" width="20" title="Kubernetes" />
-                        </a>
-                        <br />
-                        <span>Kubernetes</span>
-                    </td>
-                    <td align="center">
-                        <a href="https://docker.com/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/Docker.svg" alt="React" height="20" width="20" title="React" />
-                        </a>
-                        <br />
-                        <span>Docker</span>
-                    </td>
-                    <td align="center">
-                        <a href="https://grpc.io/" target="_blank" rel="noopener noreferrer">
-                            <img src="imgs/icons-color/GRPC.svg" alt="TypeScript" height="20" width="20" title="GRPC" />
-                        </a>
-                        <br />
-                        <span>gRPC</span>
-                    <td align="center">
-                            <img src="imgs/icons-color/More.svg" alt="Turso" height="20" width="20" title="and more..." />
-                        <br />
-                        <span>& more...</span>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
 </table>
 
 
