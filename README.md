@@ -36,11 +36,11 @@
 <table align="center" style="width: 100%; border-spacing: 2rem;">
   <!-- Proyecto 1 -->
   <tr>
-    <td style="width: 40%; text-align: center;">
-  <a href="https://antagonista.site/" target="_blank">
-    <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="max-width: 100%; height: auto; border-radius: 0.5rem;" />
-  </a>
-</td>
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
+            </a>
+        </td>
     <td style="vertical-align: top;">
       <h3>🎭 ANTAGONISTA.SITE</h3>
       <p>
@@ -67,10 +67,12 @@
   </tr>
 
   <!-- Proyecto 2 -->
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 100%; border-radius: 0.5rem;" />
-    </td>
+<tr>
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
+                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 100%; border-radius: 0.5rem;" />
+            </a>
+        </td>
     <td style="vertical-align: top;">
       <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
       <p>
