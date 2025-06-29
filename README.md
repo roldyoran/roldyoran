@@ -36,26 +36,26 @@
 <table style="margin: auto; border-spacing: 2rem;">
   <!-- Proyecto 1 -->
   <tr>
-        <td style="width: 10%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 60%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer" style="width: 50%;">
+                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
             </a>
         </td>
-    <td style="vertical-align: top;">
+    <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
       <h3>🎭 ANTAGONISTA.SITE</h3>
       <p>
         A public voting website celebrating the 50th chapter of the manga <i>Antagonista</i> by Saikomic.
         Users can vote for their 3 favorite characters.
       </p>
       <p><b>Tech Stack:</b></p>
-      <p align="center">
+      <p>
         <a href="https://astro.build/" target="_blank"><img src="imgs/icons-color/Astro.svg" height="20" title="Astro" /></a>
         <a href="https://reactjs.org/" target="_blank"><img src="imgs/icons-color/React.svg" height="20" title="React" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/icons-color/Tailwind.svg" height="20" title="TailwindCSS" /></a>
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
         <a href="https://turso.tech/" target="_blank"><img src="imgs/icons-color/Turso.svg" height="20" title="Turso" /></a>
       </p>
-      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem" align="center">
+      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
         <a href="https://antagonista.site/" target="_blank">
         <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDZoLTZhMiAyIDAgMCAwIC0yIDJ2MTBhMiAyIDAgMCAwIDIgMmgxMGEyIDIgMCAwIDAgMiAtMnYtNiIvPjxwYXRoIGQ9Ik0xMSAxM2w5LTkiLz48cGF0aCBkPSJNMTUgNGg1djUiLz48L3N2Zz4=&logoColor=white&labelColor=000000" />
         </a>
@@ -68,12 +68,12 @@
 
   <!-- Proyecto 2 -->
 <tr>
-        <td style="width: 10%; text-align: center; vertical-align: middle;">
-            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 60%; border-radius: 0.5rem;" />
+        <td style="width: 50%; text-align: center; vertical-align: middle;">
+            <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer" style="width: 50%;">
+                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 100%; border-radius: 0.5rem;" />
             </a>
         </td>
-    <td style="vertical-align: top;">
+    <td style="text-align: left; vertical-align: middle; padding-bottom: 1rem;">
       <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
       <p>
         Cloud-native platform for tracking Olympic events at USAC in real time. Built with Go/Rust microservices,
