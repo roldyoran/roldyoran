@@ -37,10 +37,10 @@
   <!-- Proyecto 1 -->
   <tr>
     <td style="width: 40%; text-align: center;">
-    <a href="https://antagonista.site/" target="_blank">
-      <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="width: 40%; border-radius: 0.5rem;" />
-    </a>
-    </td>
+  <a href="https://antagonista.site/" target="_blank">
+    <img src="imgs/proyects/antagonista-site.png" alt="Antagonista Site" style="max-width: 100%; height: auto; border-radius: 0.5rem;" />
+  </a>
+</td>
     <td style="vertical-align: top;">
       <h3>🎭 ANTAGONISTA.SITE</h3>
       <p>
@@ -75,7 +75,7 @@
       <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
       <p>
         Cloud-native platform for tracking Olympic events at USAC in real time. Built with Go/Rust microservices,
-        gRPC, Kafka, Redis, Grafana, and deployed on GKE with autoscaling and simulated traffic using Locust.
+        gRPC, Kafka, Redis, Grafana, and deployed on GKE with autoscaling and simulated traffic using Locust all using Kubernetes.
       </p>
       <p><b>Tech Stack:</b></p>
       <p>
