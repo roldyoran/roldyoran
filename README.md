@@ -58,17 +58,19 @@
         </a>
       </p>
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;">
+    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
       <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-        <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 180px; height: auto; border-radius: 0.5rem;" title="antagonista.site" align="center" />
+        <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
       </a>
     </td>
   </tr>
 
   <!-- Proyecto 2 -->
   <tr>
-    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;">
-      <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="Project 2" style="width: 180px; height: auto; border-radius: 0.5rem;" title="GKE_structure" align="center" />
+    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
+      <a href="/" target="_blank" rel="noopener noreferrer">
+        <img src="imgs/proyects/GKE.png" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="GKE"  />
+      </a>
     </td>
     <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
       <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
