@@ -38,7 +38,7 @@
   <tr>
         <td style="width: 50%; text-align: center; vertical-align: middle;">
             <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
+                <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 60%; height: auto; border-radius: 0.5rem;" title="antagonista.site" />
             </a>
         </td>
     <td style="vertical-align: top;">
@@ -70,7 +70,7 @@
 <tr>
         <td style="width: 50%; text-align: center; vertical-align: middle;">
             <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 100%; border-radius: 0.5rem;" />
+                <img src="https://github.com/roldyoran/gke-k8s-olympic-microservices/blob/main/imgs/arquitecture.png?raw=true" alt="GKE K8s Olympic Microservices" style="width: 60%; border-radius: 0.5rem;" />
             </a>
         </td>
     <td style="vertical-align: top;">
