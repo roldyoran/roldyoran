@@ -208,9 +208,9 @@ Powered by Cloudflare Workers for maximum speed and reliability.
   <img src="https://github-readme-stats.vercel.app/api?username=roldyoran&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="roldyoran's GitHub stats" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roldyoran&layout=compact&theme=tokyonight&hide_border=true" alt="roldyoran's most used languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roldyoran&theme=tokyonight&hide_border=true" alt="roldyoran's streak stats" />
