@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Edgar Alvarez</h1>
-<h3 align="center">Systems Engineering Student in USAC (final year of college)</h3>
+<h3 align="center">Systems Engineering Student at USAC (Final Year) | Full Stack Developer</h3>
 
-- 👨‍💻 My portfolio is available at [In-progress](In-progress)
+<p align="center">
+  <em>Passionate about building scalable solutions with modern technologies and cloud-native architectures</em>
+</p>
+
+- � I'm currently working on **cloud-native microservices** and **web applications**
+- 🌱 I'm learning **advanced Kubernetes** and **DevOps practices**
+- �👨‍💻 All of my projects are available on [GitHub](https://github.com/roldyoran)
+- 💬 Ask me about **Go, Rust, TypeScript, React, and Kubernetes**
 - 📫 How to reach me **edgaralvares4208@gmail.com**
+- ⚡ Fun fact: I love contributing to open source projects and manga!
 
 
 <br>
@@ -11,8 +19,8 @@
 <table align="center" style="width: 100%; text-align: center; margin-top: 2rem; border-spacing: 1rem;">
     <tr align="center">
         <td style="font-weight: bold; font-size: 1.2rem;">CONTACT ME:</td>
-        <td style="font-weight: bold; font-size: 1.2rem;">MY PORTFOLIO:</td>
-    </tr>
+        <td style="font-weight: bold; font-size: 1.2rem;">FIND ME ON:</td>
+    </tr></invoke>
     <tr align="center" style="height: 50px;">
         <td style="vertical-align: middle;">
             <a href="mailto:edgaralvares4208@gmail.com">
@@ -20,8 +28,8 @@
             </a>
         </td>
         <td style="vertical-align: middle;">
-            <a href="/" target="_blank">
-                <img src="imgs/icons-color/Dev.svg" alt="Portfolio" height="50" width="50" title="My Portfolio" />
+            <a href="https://github.com/roldyoran" target="_blank">
+                <img src="imgs/icons-color/Github.svg" alt="GitHub" height="50" width="50" title="My GitHub Profile" />
             </a>
         </td>
     </tr>
@@ -80,8 +88,10 @@
       </p>
       <p><b>Tech Stack:</b></p>
       <p>
+        <a href="https://golang.org/" target="_blank"><img src="imgs/icons-color/Golang.svg" height="20" title="Go" /></a>
+        <a href="https://www.rust-lang.org/" target="_blank"><img src="imgs/icons-color/Rust.svg" height="20" title="Rust" /></a>
         <a href="https://kubernetes.io/" target="_blank"><img src="imgs/icons-color/Kubernetes.svg" height="20" title="Kubernetes" /></a>
-        <a href="https://docker.com/" target="_blank"><img src="imgs/icons-color/Docker.svg" height="20" title="Docker" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="imgs/icons-color/Docker.svg" height="20" title="Docker" /></a>
         <a href="https://grpc.io/" target="_blank"><img src="imgs/icons-color/GRPC.svg" height="20" title="gRPC" /></a>
         <a href="https://redis.io/" target="_blank"><img src="imgs/icons-color/Redis.svg" height="20" title="Redis" /></a>
         <a href="https://grafana.com/" target="_blank"><img src="imgs/icons-color/Grafana.svg" height="20" title="Grafana" /></a>
@@ -110,7 +120,7 @@ Powered by Cloudflare Workers for maximum speed and reliability.
         <a href="https://hono.dev/" target="_blank"><img src="imgs/icons-color/Hono.svg" height="20" title="Hono" /></a>
       </p>
       <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
-        <a href="https://antagonista.site/" target="_blank">
+        <a href="https://shorturl-roldyoran.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0F172A?style=for-the-badge&logoColor=14B8A6&labelColor=0F172A" />
 </a>
         <a href="https://github.com/roldyoran/shorturl" target="_blank">
@@ -120,7 +130,7 @@ Powered by Cloudflare Workers for maximum speed and reliability.
     </td>
     <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
       <a href="https://shorturl-roldyoran.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="imgs/proyects/shorturl.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
+        <img src="imgs/proyects/shorturl.png" alt="ShortURL Project" style="width: 100%; height: auto; border-radius: 0.5rem;" title="ShortURL"  />
       </a>
     </td>
   </tr>  
@@ -153,6 +163,7 @@ Powered by Cloudflare Workers for maximum speed and reliability.
             <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Python.svg" alt="Python" height="30" width="30" title="Python" /></a>
             <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="imgs/icons-color/JavaScript.svg" alt="JavaScript" height="30" width="30" title="JavaScript" /></a>
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="30" width="30" title="TypeScript" /></a>
+            <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Golang.svg" alt="Go" height="30" width="30" title="Go" /></a>
             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Rust.svg" alt="Rust" height="30" width="30" title="Rust" /></a>
         </td>
     </tr>
@@ -181,7 +192,7 @@ Powered by Cloudflare Workers for maximum speed and reliability.
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Others</b></td>
         <td>
             <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Grafana.svg" alt="Grafana" height="30" width="30" title="Grafana" /></a>
-            <a href="https://clouflare.com" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Cloudflare.svg" alt="Cloudflare" height="30" width="30" title="Cloudflare" /></a>
+            <a href="https://cloudflare.com" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Cloudflare.svg" alt="Cloudflare" height="30" width="30" title="Cloudflare" /></a>
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Linux.svg" alt="Linux" height="30" width="30" title="Linux" /></a>
         </td>
     </tr>
@@ -191,7 +202,22 @@ Powered by Cloudflare Workers for maximum speed and reliability.
 <br>
 
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roldyoran&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="roldyoran's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roldyoran&layout=compact&theme=tokyonight&hide_border=true" alt="roldyoran's most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roldyoran&theme=tokyonight&hide_border=true" alt="roldyoran's streak stats" />
+</div>
+
+---
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=roldyoran&show_icons=true&locale=en&theme=tokyonight" alt="roldyoran" />
+  <i>⭐️ From [roldyoran](https://github.com/roldyoran) | Let's build something amazing together! 🚀</i>
 </p>
