@@ -43,38 +43,6 @@
 <table style="margin: auto; border-spacing: 2rem; width: 100%;">
   <!-- Proyecto 1 -->
   <tr>
-    <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
-      <h3>🎭 ANTAGONISTA.SITE</h3>
-      <p>
-        A public voting website celebrating the 50th chapter of the manga <i>Antagonista</i> by Saikomic.
-        Users can vote for their 3 favorite characters.
-      </p>
-      <p><b>Tech Stack:</b></p>
-      <p>
-        <a href="https://astro.build/" target="_blank"><img src="imgs/icons-color/Astro.svg" height="20" title="Astro" /></a>
-        <a href="https://reactjs.org/" target="_blank"><img src="imgs/icons-color/React.svg" height="20" title="React" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/icons-color/Tailwind.svg" height="20" title="TailwindCSS" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
-        <a href="https://turso.tech/" target="_blank"><img src="imgs/icons-color/Turso.svg" height="20" title="Turso" /></a>
-      </p>
-      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
-        <a href="https://antagonista.site/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0F172A?style=for-the-badge&logoColor=14B8A6&labelColor=0F172A" />
-</a>
-        <a href="https://github.com/roldyoran/antagonista-site" target="_blank">
-          <img src="https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
-      <a href="https://antagonista.site/" target="_blank" rel="noopener noreferrer">
-        <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="antagonista.site"  />
-      </a>
-    </td>
-  </tr>
-
-  <!-- Proyecto 2 -->
-  <tr>
     <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
       <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank" rel="noopener noreferrer">
         <img src="imgs/proyects/GKE.png" alt="Project 2" style="width: 100%; height: auto; border-radius: 0.5rem;" title="GKE"  />
@@ -105,7 +73,7 @@
   </tr>
 
 
-<!-- Proyecto 3 -->
+<!-- Proyecto 2 -->
   <tr>
     <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
       <h3>🔗 SHORTURL</h3>
@@ -134,6 +102,38 @@ Powered by Cloudflare Workers for maximum speed and reliability.
       </a>
     </td>
   </tr>  
+
+  <!-- Proyecto 3 -->
+  <tr>
+    <td style="width: 50%; text-align: left; vertical-align: middle; padding: 1rem;">
+      <h3>🎭 Votaciones Antagonista</h3>
+      <p>
+        A public voting website celebrating the 50th chapter of the manga <i>Antagonista</i> by Saikomic.
+        Users can vote for their 3 favorite characters.
+      </p>
+      <p><b>Tech Stack:</b></p>
+      <p>
+        <a href="https://astro.build/" target="_blank"><img src="imgs/icons-color/Astro.svg" height="20" title="Astro" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img src="imgs/icons-color/React.svg" height="20" title="React" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="imgs/icons-color/Tailwind.svg" height="20" title="TailwindCSS" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="imgs/icons-color/TypeScript.svg" height="20" title="TypeScript" /></a>
+        <a href="https://turso.tech/" target="_blank"><img src="imgs/icons-color/Turso.svg" height="20" title="Turso" /></a>
+      </p>
+      <p style="display: flex; justify-content: space-between; width: 100%; padding: 0 2rem">
+        <a href="https://votaciones-antagonista.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0F172A?style=for-the-badge&logoColor=14B8A6&labelColor=0F172A" />
+</a>
+        <a href="https://github.com/roldyoran/antagonista-site" target="_blank">
+          <img src="https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
+      <a href="https://votaciones-antagonista.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="imgs/proyects/antagonista-site.png" alt="Project 1" style="width: 100%; height: auto; border-radius: 0.5rem;" title="votaciones-antagonista.vercel.app"  />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br>
