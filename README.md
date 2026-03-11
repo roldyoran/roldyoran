@@ -26,45 +26,56 @@ Systems Engineering · Final Year
 
 ## Projects
 
-### [GKE-K8S-Olympic-Microservices](https://github.com/roldyoran/gke-k8s-olympic-microservices)
-
-<a href="https://github.com/roldyoran/gke-k8s-olympic-microservices"><img src="imgs/proyects/GKE.png" width="340" /></a>
-
-Cloud-native platform for real-time tracking of Olympic events at USAC. Features Go/Rust microservices communicating over gRPC, Kafka for event streaming, Redis for caching, Grafana for observability, and Locust for simulated traffic — all deployed on GKE with autoscaling.
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
----
-
-### [ShortURL](https://github.com/roldyoran/shorturl) · [Live Demo](https://shorturl-roldyoran.vercel.app/)
-
-<a href="https://shorturl-roldyoran.vercel.app/"><img src="imgs/proyects/shorturl.jpg" width="340" /></a>
-
-Fast and minimal URL shortener deployed at the edge using Cloudflare Workers. Built with Hono for routing and TypeScript for type safety.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square)
-
----
-
-### [Votaciones Antagonista](https://github.com/roldyoran/antagonista-site) · [Live Demo](https://votaciones-antagonista.vercel.app/)
-
-<a href="https://votaciones-antagonista.vercel.app/"><img src="imgs/proyects/antagonista-site.png" width="340" /></a>
-
-Public voting site built for the 50th chapter of the manga *Antagonista* by Saikomic. Users vote for their top 3 favorite characters. Uses Turso (libSQL) as the database.
-
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logoColor=black)
+<table>
+  <tr>
+    <td width="240" align="center">
+      <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices">
+        <img src="imgs/proyects/GKE.png" width="220" />
+      </a>
+    </td>
+    <td>
+      <b>🏅 <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices">GKE-K8S-Olympic-Microservices</a></b><br/><br/>
+      Cloud-native platform for real-time tracking of Olympic events at USAC. Go/Rust microservices over gRPC, Kafka for event streaming, Redis for caching, Grafana for observability, and Locust for simulated traffic — deployed on GKE with autoscaling.<br/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="240" align="center">
+      <a href="https://shorturl-roldyoran.vercel.app/">
+        <img src="imgs/proyects/shorturl.jpg" width="220" />
+      </a>
+    </td>
+    <td>
+      <b>🔗 <a href="https://github.com/roldyoran/shorturl">ShortURL</a> · <a href="https://shorturl-roldyoran.vercel.app/">Live Demo</a></b><br/><br/>
+      Fast and minimal URL shortener deployed at the edge using Cloudflare Workers. Built with Hono for routing and TypeScript for type safety.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="240" align="center">
+      <a href="https://votaciones-antagonista.vercel.app/">
+        <img src="imgs/proyects/antagonista-site.png" width="220" />
+      </a>
+    </td>
+    <td>
+      <b>🎭 <a href="https://github.com/roldyoran/antagonista-site">Votaciones Antagonista</a> · <a href="https://votaciones-antagonista.vercel.app/">Live Demo</a></b><br/><br/>
+      Public voting site for the 50th chapter of the manga <i>Antagonista</i> by Saikomic. Users vote for their top 3 favorite characters. Uses Turso (libSQL) as the database.<br/><br/>
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
