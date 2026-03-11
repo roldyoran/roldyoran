@@ -4,10 +4,10 @@
 
 **Full Stack Developer · Systems Engineering Student**
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1a7a3e?style=flat-square&logoColor=white)](mailto:edgaralvares4208@gmail.com)
-[![Guatemala](https://img.shields.io/badge/Guatemala-1a4f7a?style=flat-square&logoColor=white)](https://github.com/roldyoran)
-[![5+ Years](https://img.shields.io/badge/5%2B%20Years%20Coding-922b2b?style=flat-square&logoColor=white)](https://github.com/roldyoran)
-[![Email](https://img.shields.io/badge/edgaralvares4208%40gmail.com-8b1a0e?style=flat-square&logo=gmail&logoColor=white)](mailto:edgaralvares4208@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-136030?style=flat-square&logoColor=white)](mailto:edgaralvares4208@gmail.com)
+[![Guatemala](https://img.shields.io/badge/Guatemala-0f3d60?style=flat-square&logoColor=white)](https://github.com/roldyoran)
+[![5+ Years](https://img.shields.io/badge/5%2B%20Years%20Coding-721f1f?style=flat-square&logoColor=white)](https://github.com/roldyoran)
+[![Email](https://img.shields.io/badge/edgaralvares4208%40gmail.com-6e130a?style=flat-square&logo=gmail&logoColor=white)](mailto:edgaralvares4208@gmail.com)
 
 </div>
 
@@ -36,13 +36,13 @@ Systems Engineering · Final Year
     <td>
       <b>🏅 <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices">GKE-K8S-Olympic-Microservices</a></b><br/><br/>
       Cloud-native platform for real-time tracking of Olympic events at USAC. Go/Rust microservices over gRPC, Kafka for event streaming, Redis for caching, Grafana for observability, and Locust for simulated traffic — deployed on GKE with autoscaling.<br/><br/>
-      <img src="https://img.shields.io/badge/Go-007a99?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-1a1a1a?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-1a3d8f?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-0e5a8a?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kafka-1a1a1a?style=flat-square&logo=apachekafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-8b1a1a?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-8a3a00?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-006680?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-0f2660?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-094870?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-111111?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-6e1414?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-6e2e00?style=flat-square&logo=grafana&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -54,9 +54,9 @@ Systems Engineering · Final Year
     <td>
       <b>🔗 <a href="https://github.com/roldyoran/shorturl">ShortURL</a> · <a href="https://shorturl-roldyoran.vercel.app/">Live Demo</a></b><br/><br/>
       Fast and minimal URL shortener deployed at the edge using Cloudflare Workers. Built with Hono for routing and TypeScript for type safety.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-1a3d6b?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare%20Workers-8a4400?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hono-7a2800?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0f2650?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare%20Workers-6e3500?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hono-612000?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -68,11 +68,11 @@ Systems Engineering · Final Year
     <td>
       <b>🎭 <a href="https://github.com/roldyoran/antagonista-site">Votaciones Antagonista</a> · <a href="https://votaciones-antagonista.vercel.app/">Live Demo</a></b><br/><br/>
       Public voting site for the 50th chapter of the manga <i>Antagonista</i> by Saikomic. Users vote for their top 3 favorite characters. Uses Turso (libSQL) as the database.<br/><br/>
-      <img src="https://img.shields.io/badge/Astro-5a1a8a?style=flat-square&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-0a6b7a?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-0a5a6b?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-1a3d6b?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Turso-0a5a4a?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-44136e?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-085560?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-085060?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0f2650?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Turso-08483c?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -85,46 +85,46 @@ Systems Engineering · Final Year
   <tr>
     <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Go-007a99?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-1a1a1a?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-1a3d6b?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-7a6500?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-1a3d6b?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-006680?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0f2650?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-5e4e00?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-0f2650?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-0a6b7a?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Astro-5a1a8a?style=flat-square&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue-1a5e38?style=flat-square&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-0a5a6b?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-085560?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-44136e?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue-134a2c?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-085060?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-005a50?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hono-7a2800?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/gRPC-1a3a8a?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-004840?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hono-612000?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/gRPC-0f2870?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Redis-8b1a1a?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-1a3d6b?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-6e1414?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-0f2650?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-0e5a8a?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-1a3d8f?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-8a3a00?style=flat-square&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare-8a4400?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-4a4a00?style=flat-square&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-8a2200?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-094870?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-0f2660?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-6e2e00?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-6e3500?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-383800?style=flat-square&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-6e1a00?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
 </table>
