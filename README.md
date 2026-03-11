@@ -156,56 +156,56 @@ Powered by Cloudflare Workers for maximum speed and reliability.
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Frontend</b></td>
         <td>
-            <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="30" width="30" title="Astro" /></a> <small>Astro</small>
-            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Vue.svg" alt="Vue" height="30" width="30" title="Vue" /></a> <small>Vue</small>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="30" width="30" title="React" /></a> <small>React</small>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="30" width="30" title="TailwindCSS" /></a> <small>Tailwind</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Astro.svg" alt="Astro" height="30" width="30" title="Astro" /></a><br><small>Astro</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Vue.svg" alt="Vue" height="30" width="30" title="Vue" /></a><br><small>Vue</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/React.svg" alt="React" height="30" width="30" title="React" /></a><br><small>React</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Tailwind.svg" alt="Tailwind" height="30" width="30" title="TailwindCSS" /></a><br><small>Tailwind</small></span>
         </td>
     </tr>
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Backend</b></td>
         <td>
-            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/FastApi.svg" alt="FastAPI" height="30" width="30" title="FastAPI" /></a> <small>FastAPI</small>
-            <a href="https://hono.dev/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Hono.svg" alt="Hono" height="30" width="30" title="Hono" /></a> <small>Hono</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/FastApi.svg" alt="FastAPI" height="30" width="30" title="FastAPI" /></a><br><small>FastAPI</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://hono.dev/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Hono.svg" alt="Hono" height="30" width="30" title="Hono" /></a><br><small>Hono</small></span>
         </td>
     </tr>
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Languages</b></td>
         <td>
-            <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Python.svg" alt="Python" height="30" width="30" title="Python" /></a> <small>Python</small>
-            <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="imgs/icons-color/JavaScript.svg" alt="JavaScript" height="30" width="30" title="JavaScript" /></a> <small>JavaScript</small>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="30" width="30" title="TypeScript" /></a> <small>TypeScript</small>
-            <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Golang.svg" alt="Go" height="30" width="30" title="Go" /></a> <small>Go</small>
-            <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Rust.svg" alt="Rust" height="30" width="30" title="Rust" /></a> <small>Rust</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Python.svg" alt="Python" height="30" width="30" title="Python" /></a><br><small>Python</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="imgs/icons-color/JavaScript.svg" alt="JavaScript" height="30" width="30" title="JavaScript" /></a><br><small>JavaScript</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/TypeScript.svg" alt="TypeScript" height="30" width="30" title="TypeScript" /></a><br><small>TypeScript</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Golang.svg" alt="Go" height="30" width="30" title="Go" /></a><br><small>Go</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Rust.svg" alt="Rust" height="30" width="30" title="Rust" /></a><br><small>Rust</small></span>
         </td>
     </tr>
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Databases</b></td>
         <td>
-            <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Redis.svg" alt="Redis" height="30" width="30" title="Redis" /></a> <small>Redis</small>
-            <img src="imgs/icons-color/Sql.svg" alt="SQL" height="30" width="30" title="SQL (SQLite and Oracle)" /> <small>SQL</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Redis.svg" alt="Redis" height="30" width="30" title="Redis" /></a><br><small>Redis</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><img src="imgs/icons-color/Sql.svg" alt="SQL" height="30" width="30" title="SQL (SQLite and Oracle)" /><br><small>SQL</small></span>
         </td>
     </tr>
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>DevOps</b></td>
         <td>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Docker.svg" alt="Docker" height="30" width="30" title="Docker" /></a> <small>Docker</small>
-            <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Kubernetes.svg" alt="Kubernetes" height="30" width="30" title="Kubernetes" /></a> <small>Kubernetes</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Docker.svg" alt="Docker" height="30" width="30" title="Docker" /></a><br><small>Docker</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Kubernetes.svg" alt="Kubernetes" height="30" width="30" title="Kubernetes" /></a><br><small>Kubernetes</small></span>
         </td>
     </tr>
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Tools</b></td>
         <td>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Git.svg" alt="Git" height="30" width="30" title="Git" /></a> <small>Git</small>
-            <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Github.svg" alt="GitHub" height="30" width="30" title="GitHub" /></a> <small>GitHub</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Git.svg" alt="Git" height="30" width="30" title="Git" /></a><br><small>Git</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Github.svg" alt="GitHub" height="30" width="30" title="GitHub" /></a><br><small>GitHub</small></span>
         </td>
     </tr>
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Others</b></td>
         <td>
-            <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Grafana.svg" alt="Grafana" height="30" width="30" title="Grafana" /></a> <small>Grafana</small>
-            <a href="https://cloudflare.com" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Cloudflare.svg" alt="Cloudflare" height="30" width="30" title="Cloudflare" /></a> <small>Cloudflare</small>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Linux.svg" alt="Linux" height="30" width="30" title="Linux" /></a> <small>Linux</small>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Grafana.svg" alt="Grafana" height="30" width="30" title="Grafana" /></a><br><small>Grafana</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://cloudflare.com" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Cloudflare.svg" alt="Cloudflare" height="30" width="30" title="Cloudflare" /></a><br><small>Cloudflare</small></span>
+            <span style="display: inline-block; text-align: center; margin: 0 5px;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="imgs/icons-color/Linux.svg" alt="Linux" height="30" width="30" title="Linux" /></a><br><small>Linux</small></span>
         </td>
     </tr>
 </table>
