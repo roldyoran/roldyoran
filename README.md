@@ -231,8 +231,7 @@ Powered by Cloudflare Workers for maximum speed and reliability.
 ---
 
 <p align="center">
-  <b>Let's build something amazing together!</b><br>
-  <a href="mailto:edgaralvares4208@gmail.com">Hire me</a> • <a href="https://github.com/roldyoran">GitHub</a> • <a href="https://shorturl-roldyoran.vercel.app/">Portfolio</a>
+  <a href="https://github.com/roldyoran">GitHub</a>
 </p>
 
 <p align="center">
