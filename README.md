@@ -2,39 +2,50 @@
 <h3 align="center">Systems Engineering Student at USAC (Final Year) | Full Stack Developer</h3>
 
 <p align="center">
-  <em>Passionate about building scalable solutions with modern technologies and cloud-native architectures</em>
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-00CF9D?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/-Guatemala-499DCA?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/-5%2B%20Years%20Coding-FF6B6B?style=for-the-badge" alt="Experience" />
 </p>
 
-- � I'm currently working on **cloud-native microservices** and **web applications**
-- 🌱 I'm learning **advanced Kubernetes** and **DevOps practices**
-- �👨‍💻 All of my projects are available on [GitHub](https://github.com/roldyoran)
-- 💬 Ask me about **Go, Rust, TypeScript, React, and Kubernetes**
-- 📫 How to reach me **edgaralvares4208@gmail.com**
-- ⚡ Fun fact: I love contributing to open source projects and manga!
+<p align="center">
+  <em>Full Stack Developer & Systems Engineering Student at USAC. 5+ years of experience building with Go, Rust, TypeScript, React, and Kubernetes.</em>
+</p>
+
+<p align="center">
+  <!-- <a href="https://github.com/roldyoran">GitHub</a> • -->
+  <a href="mailto:edgaralvares4208@gmail.com"><img src="https://img.shields.io/badge/Email-edgaralvares4208@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://shorturl-roldyoran.vercel.app/">Portfolio</a> -->
+</p>
 
 
 <br>
 
 
-<table align="center" style="width: 100%; text-align: center; margin-top: 2rem; border-spacing: 1rem;">
-    <tr align="center">
-        <td style="font-weight: bold; font-size: 1.2rem;">CONTACT ME:</td>
-        <td style="font-weight: bold; font-size: 1.2rem;">FIND ME ON:</td>
-    </tr></invoke>
-    <tr align="center" style="height: 50px;">
-        <td style="vertical-align: middle;">
-            <a href="mailto:edgaralvares4208@gmail.com">
-                <img src="imgs/icons-color/Mail.svg" alt="Email" height="40" width="40" />
-            </a>
-        </td>
-        <td style="vertical-align: middle;">
-            <a href="https://github.com/roldyoran" target="_blank">
-                <img src="imgs/icons-color/Github.svg" alt="GitHub" height="50" width="50" title="My GitHub Profile" />
-            </a>
-        </td>
-    </tr>
-</table>
+<br>
 
+
+<h2 align="center">⭐ FEATURED PROJECT</h2>
+<div align="center">
+  <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank" rel="noopener noreferrer">
+    <img src="imgs/proyects/GKE.png" alt="Featured Project" style="width: 80%; max-width: 800px; height: auto; border-radius: 0.5rem;" />
+  </a>
+  <h3>🏅 GKE-K8S-OLYMPIC-MICROSERVICES</h3>
+  <p style="max-width: 700px;">
+    Cloud-native platform for tracking Olympic events at USAC in real time. Built with Go/Rust microservices, gRPC, Kafka, Redis, Grafana, and deployed on GKE with autoscaling.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/gRPC-4169E1?style=flat" />
+  </p>
+  <p>
+    <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 <br>
 
@@ -98,7 +109,7 @@ Powered by Cloudflare Workers for maximum speed and reliability.
     </td>
     <td style="width: 50%; text-align: center; vertical-align: middle; padding: 1rem;" align="center">
       <a href="https://shorturl-roldyoran.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="imgs/proyects/shorturl.png" alt="ShortURL Project" style="width: 100%; height: auto; border-radius: 0.5rem;" title="ShortURL"  />
+        <img src="imgs/proyects/shorturl.jpg" alt="ShortURL Project" style="width: 100%; height: auto; border-radius: 0.5rem;" title="ShortURL"  />
       </a>
     </td>
   </tr>  
@@ -139,7 +150,48 @@ Powered by Cloudflare Workers for maximum speed and reliability.
 <br>
 
 
-<h2 align="center" style="margin-top: 2rem; font-weight: bold;">SKILLS AND TOOLS</h2>
+<h2 align="center" style="margin-top: 2rem; font-weight: bold;">🛠️ SKILLS</h2>
+
+<div align="center">
+  <table align="center" cellpadding="5">
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /><br><small>Go</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /><br><small>Rust</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /><br><small>TypeScript</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br><small>JavaScript</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br><small>Python</small></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /><br><small>React</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /><br><small>Vue</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Astro-FF5A03?style=flat&logo=astro&logoColor=white" /><br><small>Astro</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br><small>Tailwind</small></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat" /><br><small>FastAPI</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Hono-000000?style=flat" /><br><small>Hono</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /><br><small>Docker</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /><br><small>Kubernetes</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/gRPC-4169E1?style=flat" /><br><small>gRPC</small></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /><br><small>Redis</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" /><br><small>Grafana</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /><br><small>Cloudflare</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br><small>Git</small></td>
+      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /><br><small>Linux</small></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Original Skills Table (for comparison) -->
+<details>
+<summary><b>Show Original Skills Table</b></summary>
+
+<br>
+
 <table align="center" style="border-collapse: collapse; text-align: center;">
     <tr>
         <td align="center" style="writing-mode: vertical-rl; transform: rotate(180deg);"><b>Frontend</b></td>
@@ -198,6 +250,8 @@ Powered by Cloudflare Workers for maximum speed and reliability.
     </tr>
 </table>
 
+</details>
+
 
 <br>
 
@@ -219,5 +273,10 @@ Powered by Cloudflare Workers for maximum speed and reliability.
 ---
 
 <p align="center">
-  <i>⭐️ From [roldyoran](https://github.com/roldyoran) | Let's build something amazing together! 🚀</i>
+  <b>Let's build something amazing together!</b><br>
+  <a href="mailto:edgaralvares4208@gmail.com">Hire me</a> • <a href="https://github.com/roldyoran">GitHub</a> • <a href="https://shorturl-roldyoran.vercel.app/">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roldyoran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
