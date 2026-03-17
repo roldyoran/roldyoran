@@ -200,9 +200,9 @@ Systems Engineering · Final Year
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=roldyoran&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=roldyoran&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=roldyoran&theme=graywhite&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=roldyoran&theme=dark&hide_border=true)
 
 </div>
 
