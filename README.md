@@ -8,6 +8,7 @@
 [![Guatemala](https://img.shields.io/badge/Guatemala-0f3d60?style=flat-square&logoColor=white)](https://github.com/roldyoran)
 [![5+ Years](https://img.shields.io/badge/5%2B%20Years%20Coding-721f1f?style=flat-square&logoColor=white)](https://github.com/roldyoran)
 [![Email](https://img.shields.io/badge/www.edgaralvarez4208%40gmail.com-6e130a?style=flat-square&logo=gmail&logoColor=white)](mailto:www.edgaralvarez4208@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-rolando-alvarez-rodriguez-88695839a/)
 
 </div>
 
