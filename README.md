@@ -200,7 +200,9 @@ Systems Engineering · Final Year
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/roldyoran?label=Followers&style=flat-square" />  <img src="https://img.shields.io/github/stars/roldyoran?label=Stars&style=flat-square" />  <img src="https://img.shields.io/github/repo-size/roldyoran/roldyoran?label=Repo%20Size&style=flat-square" />
+<img src="https://img.shields.io/github/followers/roldyoran?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0e75b6" />
+
+<img src="https://img.shields.io/github/stars/roldyoran?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=f1c40f" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=roldyoran&theme=dark&hide_border=true)
 
