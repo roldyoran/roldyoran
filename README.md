@@ -9,7 +9,7 @@
 [![5+ Years](https://img.shields.io/badge/5%2B%20Years%20Coding-721f1f?style=flat-square&logoColor=white)](https://github.com/roldyoran)
 [![Email](https://img.shields.io/badge/edgaralvarez4204%40gmail.com-6e130a?style=flat-square&logo=gmail&logoColor=white)](mailto:edgaralvarez4204@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-rolando-alvarez-rodriguez-88695839a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-b35a19?style=flat-square&logo=globe&logoColor=white)](https://roldyoran.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://roldyoran.github.io/portfolio/)
 
 </div>
 
