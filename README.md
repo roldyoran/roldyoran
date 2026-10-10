@@ -49,16 +49,17 @@ Systems Engineering · Final Year
   </tr>
   <tr>
     <td width="240" align="center">
-      <a href="https://shorturl-roldyoran.vercel.app/">
-        <img src="imgs/proyects/shorturl.jpg" width="220" />
+      <a href="https://roly.top/">
+        <img src="imgs/proyects/roly-top.png" width="220" />
       </a>
     </td>
     <td>
-      <b>🔗 <a href="https://github.com/roldyoran/shorturl">ShortURL</a> · <a href="https://shorturl-roldyoran.vercel.app/">Live Demo</a></b><br/><br/>
-      Fast and minimal URL shortener deployed at the edge using Cloudflare Workers. Built with Hono for routing and TypeScript for type safety.<br/><br/>
+      <b>🚀 <a href="https://github.com/roldyoran/roly.top">roly.top</a> · <a href="https://roly.top/">Live Demo</a></b><br/><br/>
+      Edge URL shortener with custom domain, QR generator, click analytics and dashboard. Bilingual (EN/ES) with custom aliases and auth.<br/><br/>
+      <img src="https://img.shields.io/badge/Astro-44136e?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/Svelte-7a1f00?style=flat-square&logo=svelte&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-0f2650?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloudflare%20Workers-6e3500?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hono-612000?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
