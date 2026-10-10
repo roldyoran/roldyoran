@@ -63,18 +63,17 @@ Systems Engineering · Final Year
   </tr>
   <tr>
     <td width="240" align="center">
-      <a href="https://votaciones-antagonista.vercel.app/">
-        <img src="imgs/proyects/antagonista-site.png" width="220" />
+      <a href="https://ai-front-skills.vercel.app/">
+        <img src="imgs/proyects/ai-front-skills.png" width="220" />
       </a>
     </td>
     <td>
-      <b>🎭 <a href="https://github.com/roldyoran/antagonista-site">Votaciones Antagonista</a> · <a href="https://votaciones-antagonista.vercel.app/">Live Demo</a></b><br/><br/>
-      Public voting site for the 50th chapter of the manga <i>Antagonista</i> by Saikomic. Users vote for their top 3 favorite characters. Uses Turso (libSQL) as the database.<br/><br/>
+      <b>🧠 <a href="https://github.com/roldyoran/ai-front-skills">AI Front Skills</a> · <a href="https://ai-front-skills.vercel.app/">Live Demo</a></b><br/><br/>
+      Skills registry with visual before/after comparisons for frontend design-engineering. Search, filter by topic, and install skills for humans and AI agents in seconds. Bilingual (EN/ES).<br/><br/>
       <img src="https://img.shields.io/badge/Astro-44136e?style=flat-square&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-085560?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Svelte-7a1f00?style=flat-square&logo=svelte&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-085060?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-0f2650?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Turso-08483c?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
