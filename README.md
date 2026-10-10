@@ -37,7 +37,7 @@ Systems Engineering · Final Year
     </td>
     <td>
       <b><a href="https://github.com/roldyoran/gke-k8s-olympic-microservices">GKE K8s Olympic Microservices</a></b><br/>
-      <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" /></a><br/><br/>
+      <a href="https://github.com/roldyoran/gke-k8s-olympic-microservices"><img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" /></a><br/><br/>
       Cloud-native platform for real-time tracking of Olympic events at USAC. Go/Rust microservices over gRPC, Kafka for event streaming, Redis for caching, Grafana for observability, and Locust for simulated traffic — deployed on GKE with autoscaling.<br/><br/>
       <img src="https://img.shields.io/badge/Go-006680?style=flat-square&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" />
@@ -56,8 +56,8 @@ Systems Engineering · Final Year
     </td>
     <td>
       <b><a href="https://github.com/roldyoran/roly.top">roly.top</a></b><br/>
-      <a href="https://github.com/roldyoran/roly.top"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://roly.top/"><img src="https://img.shields.io/badge/Live_Demo-136030?style=for-the-badge&logo=cloudflare&logoColor=white" /></a><br/><br/>
+      <a href="https://github.com/roldyoran/roly.top"><img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://roly.top/"><img src="https://img.shields.io/badge/Live_Demo-136030?style=flat-square&logo=cloudflare&logoColor=white" /></a><br/><br/>
       Edge URL shortener with custom domain, QR generator, click analytics and dashboard. Bilingual (EN/ES) with custom aliases and auth.<br/><br/>
       <img src="https://img.shields.io/badge/Astro-44136e?style=flat-square&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/Svelte-7a1f00?style=flat-square&logo=svelte&logoColor=white" />
@@ -73,8 +73,8 @@ Systems Engineering · Final Year
     </td>
     <td>
       <b><a href="https://github.com/roldyoran/ai-front-skills">AI Front Skills</a></b><br/>
-      <a href="https://github.com/roldyoran/ai-front-skills"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://ai-front-skills.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-136030?style=for-the-badge&logo=vercel&logoColor=white" /></a><br/><br/>
+      <a href="https://github.com/roldyoran/ai-front-skills"><img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://ai-front-skills.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-136030?style=flat-square&logo=vercel&logoColor=white" /></a><br/><br/>
       Skills registry with visual before/after comparisons for frontend design-engineering. Search, filter by topic, and install skills for humans and AI agents in seconds. Bilingual (EN/ES).<br/><br/>
       <img src="https://img.shields.io/badge/Astro-44136e?style=flat-square&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/Svelte-7a1f00?style=flat-square&logo=svelte&logoColor=white" />
